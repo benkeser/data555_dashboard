@@ -1,6 +1,6 @@
 ---
 title: "ggplotly geoms"
-author: "Carson Sievert"
+author: "David Benkeser"
 output: 
   flexdashboard::flex_dashboard:
   orientation: rows
